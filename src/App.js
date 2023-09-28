@@ -1,14 +1,12 @@
-import logo from './logo.svg';
+import logo from './Kushal Photo.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={logo} className="App-logo" alt="kushal" />
+        <h1 className='identify'>Kushal N Khivasara</h1><p>Roll No. 27</p>
         <a
           className="App-link"
           href="https://reactjs.org"
